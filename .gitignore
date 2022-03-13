@@ -4,3 +4,4 @@ __pycache__
 .hypothesis/
 src/build/
 reports/
+.idea

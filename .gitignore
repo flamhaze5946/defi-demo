@@ -5,3 +5,4 @@ __pycache__
 src/build/
 reports/
 .idea
+front_end/node_modules
